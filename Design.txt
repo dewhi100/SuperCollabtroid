@@ -1,0 +1,51 @@
+Brief: 
+
+Samus moves upwards from floor to floor in order to escape a facility before time runs out.
+The floors each have an escape elevator the next level, and a mandatory objective to enable the elevator.
+Side objectives in each floor add extra time the the countdown.
+
+---
+
+Bosses:
+
+First Floor- Blue and Green Brinstar. 
+	Main Objective- Beat Kraid. He is not directly blocking the elevator, but it is behind a grey door.
+	Optional objective- clear out a nest of zeros. This will prevent kihunters from spawning on a later floor.
+	Optional objective- walljumping with etecoons. This will give samus extra time.
+	Optional objective- beat Spore Spawn. This will give samus extra time.
+	Hidden in this floor: Hi-jump, 2 E-tanks and 6 missile packs
+
+Second Floor- Upper Norfair
+	Main objective- Collect Speed Booster. The elevator is blocked by Speed Booster blocks.
+	Optional Objective- Beat Crocomire. This will give Samus extra time and Power bombs.
+	Optional Objective- Collect Wave beam. This will let samus traverse later floors more efficiently.
+	Optional Objective- beat Gold Torizo. This will give samus power bombs, plasma, charge, and screw attack, and upgrade her missiles to supers.
+	Hidden in this floor: Charge beam, 3 E-tank and 4 missile packs
+
+Third Floor- Yellow Brinstar and Wrecked Ship
+	Main objective- Find the elevator. It is hidden.
+	Optional Objective- Beat Phantoon. Some paths and a shortcut to the elevator are behind grey doors.
+	Phantoon is not weak to supers, but only throws fire at samus once per rage is hit with a super.
+	Optional Objective- Beat Kihunters. this will give samus more time
+	Hidden in this floor: plasma (behind a grey door), 3 E-tanks, and 10 missile packs
+
+Fourth Floor- Maridia and Lower Crateria
+	Main objective- Blow the Maridia Pipe. It's the only way to the elevator. This will flood other rooms in the floor.
+	Optional objective- beat Botwoon.  This will give samus power bombs.
+	Optional Objective- find gravity suit. Some time extensions and power bombs will be gravity locked.
+	Optional objective- beat Draygon. This will give samus power bombs.
+	Optional Objective- visit shaktool. This will upgrade samus' missiles into Supers
+	Hidden in this floor: Screw attack, time extensions, 4 E-tanks and 10 missiles
+
+Fifth Floor- Upper Crateria
+	Main objective- Get to the ship. blocked by 3 grey doors.
+	Optional objective- Beat Bomb Torizo. This unlocks a grey door
+	Optional objective- Beat Spore Spawn. This unlocks a grey Door
+	Optional objective- beat buffed kraid, palette swapped kraid. this unlocks a grey door.
+	Option objective- use wave beam to circumvent the torizo fight
+	Optional Objective- use super missiles to circumvent the spore spawn fight
+	Optional Objective- use screw attack to circumvent the Kraid fight
+	Once all three doors are unlocked, Ridley Appears! Just like Samus returns.
+	Beat ridley and leave the planet.
+
+Missile and energy counts subject to change.
